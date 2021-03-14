@@ -1,0 +1,13 @@
+C:\Users\Radells\source\repos\AgeVerification\AgeVerification\bin\Debug\netcoreapp3.1\AgeVerification.exe
+C:\Users\Radells\source\repos\AgeVerification\AgeVerification\bin\Debug\netcoreapp3.1\AgeVerification.deps.json
+C:\Users\Radells\source\repos\AgeVerification\AgeVerification\bin\Debug\netcoreapp3.1\AgeVerification.runtimeconfig.json
+C:\Users\Radells\source\repos\AgeVerification\AgeVerification\bin\Debug\netcoreapp3.1\AgeVerification.runtimeconfig.dev.json
+C:\Users\Radells\source\repos\AgeVerification\AgeVerification\bin\Debug\netcoreapp3.1\AgeVerification.dll
+C:\Users\Radells\source\repos\AgeVerification\AgeVerification\bin\Debug\netcoreapp3.1\AgeVerification.pdb
+C:\Users\Radells\source\repos\AgeVerification\AgeVerification\obj\Debug\netcoreapp3.1\AgeVerification.csprojAssemblyReference.cache
+C:\Users\Radells\source\repos\AgeVerification\AgeVerification\obj\Debug\netcoreapp3.1\AgeVerification.AssemblyInfoInputs.cache
+C:\Users\Radells\source\repos\AgeVerification\AgeVerification\obj\Debug\netcoreapp3.1\AgeVerification.AssemblyInfo.cs
+C:\Users\Radells\source\repos\AgeVerification\AgeVerification\obj\Debug\netcoreapp3.1\AgeVerification.csproj.CoreCompileInputs.cache
+C:\Users\Radells\source\repos\AgeVerification\AgeVerification\obj\Debug\netcoreapp3.1\AgeVerification.dll
+C:\Users\Radells\source\repos\AgeVerification\AgeVerification\obj\Debug\netcoreapp3.1\AgeVerification.pdb
+C:\Users\Radells\source\repos\AgeVerification\AgeVerification\obj\Debug\netcoreapp3.1\AgeVerification.genruntimeconfig.cache

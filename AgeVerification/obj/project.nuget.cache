@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2ZsZs09vjDKjcW3YP8wbPk5Iwok5kTHbmER/phfMk0MKwHDhdroIKeOg3WsRIGX2WIsBiHM5O3dVkq/aW5KdhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Radells\\source\\repos\\AgeVerification\\AgeVerification\\AgeVerification.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Radells\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Radells\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
